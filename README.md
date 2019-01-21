@@ -4,11 +4,11 @@ some work I done in kaggle. I will record some experience which I work on kaggle
 # tool
 * anaconda,  juptier ,Pycharm, Linux 
 * github
-git clone https://github.com/NAIQIAOguo/kaggle.git
-git status
-git add .
-git commit -m "upload csv file"
-git push
+  * git clone https://github.com/NAIQIAOguo/kaggle.git
+  * git status
+  * git add .
+  * git commit -m "upload csv file"
+  * git push
 
 # model 
 * tensorflow/keras/ mnet/pytorch
