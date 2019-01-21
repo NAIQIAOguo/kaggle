@@ -3,7 +3,8 @@ some work I done in kaggle. I will record some experience which I work on kaggle
 
 # tool
 * anaconda,  juptier ,Pycharm, Linux 
-* github
+* github 
+## sync with remote
   * git clone https://github.com/NAIQIAOguo/kaggle.git
   * git status
   * git add .
