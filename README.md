@@ -24,4 +24,4 @@ df_train =pd.DataFrame(data=X_train['lvl1']+X_train['lvl2']+X_train['lvl3']+X_tr
 columns=['train'])
 X_train_text = df_train.train
 ```
-Because I combine all the data from different column, So I can get most word from the file , which means I can use more word to form dictionary to tokenize data in every place.
+Because I combine all the data from different columns, So I can get all word from the file , which means I can use more word to form dictionary to tokenize data in every place.
