@@ -25,3 +25,5 @@ columns=['train'])
 X_train_text = df_train.train
 ```
 Because I combine all the data from different columns, So I can get all word from the file , which means I can use more word to form dictionary to tokenize data in every place.
+
+# FEATURE DATA
